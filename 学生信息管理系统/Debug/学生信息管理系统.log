@@ -1,0 +1,5 @@
+﻿  Main.cpp
+f:\vs2017\学生信息管理系统\学生信息管理系统\student.h(41): fatal error C1070: 文件“f:\vs2017\学生信息管理系统\学生信息管理系统\student.h”中的 #if/#endif 对不匹配
+  subscriber.cpp
+f:\vs2017\学生信息管理系统\学生信息管理系统\student.h(41): fatal error C1070: 文件“f:\vs2017\学生信息管理系统\学生信息管理系统\student.h”中的 #if/#endif 对不匹配
+  正在生成代码...
